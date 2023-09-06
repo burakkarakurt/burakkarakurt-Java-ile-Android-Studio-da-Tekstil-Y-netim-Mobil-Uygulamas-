@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable/corner_radius.xml" value="0.1935" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable/corner_radius_button.xml" value="0.28" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1935" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_ana_ekran.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_feed_back.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_giris_ekrani.xml" value="0.33" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_is_kaydet.xml" value="0.3484375" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_performansim.xml" value="0.25" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_profil_guncelle.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/activity_uye_ol.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/is_list_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/oy_list_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/layout/spn_oy_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/menu/menu_isci.xml" value="0.3625" />
+        <entry key="..\:/Users/armag/AndroidStudioProjects/Tekstil/app/src/main/res/menu/menu_tb.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

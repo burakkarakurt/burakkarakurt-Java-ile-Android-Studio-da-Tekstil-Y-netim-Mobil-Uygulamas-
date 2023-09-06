@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="never"
+        android:title="Kullanıcı Profilim">
+    </item>
+    <item
+        android:id="@+id/action_isci_oy_ver"
+        app:showAsAction="never"
+        android:title="Ayın İşçisini Seç">
+    </item>
+
+    <item
+        android:id="@+id/action_my_perf"
+        app:showAsAction="never"
+        android:title="Performansım">
+    </item>
+
+    <item
+        android:id="@+id/action_logout"
+        app:showAsAction="never"
+        android:title="Çıkış Yap">
+    </item>
+
+
+    <item
+        android:id="@+id/action_feedback"
+        app:showAsAction="never"
+        android:title="Geri Bildirim Gönder">
+    </item>
+</menu>

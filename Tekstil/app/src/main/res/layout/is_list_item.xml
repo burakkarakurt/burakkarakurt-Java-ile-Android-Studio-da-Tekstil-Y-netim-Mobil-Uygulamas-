@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:background="#F0F0F0"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#F79327"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_marginLeft="16dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/txtKayitBaslik"
+                android:gravity="center_vertical"
+                android:text="Starbucks Coffee"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:id="@+id/txtKayitCTime"
+                android:text="22-05-2023 13:09:45"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_marginRight="16dp"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnKayitDuzenle"
+                android:layout_width="match_parent"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:textColor="#fff"
+                android:background="@drawable/corner_radius_button"
+                android:textSize="10dp"
+                android:layout_height="wrap_content"
+                android:text="Düzenle"/>
+
+            <Button
+                android:id="@+id/btnKayitSil"
+                android:layout_marginLeft="8dp"
+                android:textColor="#fff"
+                android:background="@drawable/corner_radius_button"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:textSize="10dp"
+                android:layout_height="wrap_content"
+                android:text="Sil"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
